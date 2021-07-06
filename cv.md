@@ -18,7 +18,9 @@ Secondary skills: Adobe Photoshop, Adobe Lightroom, basic InDesign.
 ## Courses and training:
 
 **July 2021** - ... - RS school entry course,
+
 **June 2021** -SheCodes Basic, [final project](https://www.shecodes.io/workshops/shecodes-basics-2c08e5f7-8f3b-440c-b9a5-8ad15609015e/projects/401914 "SheCodes")
+
 **March 2021** - What being a designer feels like.- an entry workshop for the Interface Design course by Yandex.
 
 ## Education:
