@@ -1,12 +1,10 @@
 # Mariia Ivanski
 
-![photo](//ih1.redbubble.net/image.1195859858.6411/flat,128x,075,f-pad,128x128,f8f8f8.jpg)
-
 ## Contacts:
 
 **email:** mariia.ivanski@gmail.com
 
-## Frontend development student driven by curiosity and thirst for knowledge.
+## _Frontend development student driven by curiosity and thirst for knowledge._
 
 ## Skills:
 
