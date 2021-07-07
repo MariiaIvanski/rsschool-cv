@@ -9,7 +9,10 @@
 ## Skills:
 
 basic HTML, basic JavaScript, basic CSS, basic Git, VS Code.
-Secondary skills: Adobe Photoshop, Adobe Lightroom, basic InDesign.
+
+##### Secondary skills:
+
+Adobe Photoshop, Adobe Lightroom, basic InDesign.
 
 [Sample code](https://www.codewars.com/users/MariiaIvanski/completed_solutions "Codewars")
 
