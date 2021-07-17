@@ -1,0 +1,103 @@
+body {
+  background: linear-gradient(rgb(250, 243, 243), rgb(167, 187, 199));
+}
+
+header {
+  bottom: 95%;
+  left: 33%;
+  border: none;
+  padding: 10px;
+  max-width: 250px;
+  margin: 0 auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.05);
+  background-color: rgb(250, 243, 243);
+  text-align: center;
+  color: rgb(167, 187, 199);
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(218, 127, 143);
+}
+
+h2 {
+  border: none;
+  padding: 24px 20px;
+  color: rgb(167, 187, 199);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.05);
+  font-style: italic;
+  font-size: 18px;
+  background-color: rgb(250, 243, 243);
+  border-radius: 6px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+p {
+  margin: 20px 10px;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+aside {
+  padding-left: 0.7rem;
+  margin-left: 0.7rem;
+  width: 40%;
+  float: right;
+  box-shadow: inset 10px 0 10px -10px rgb(167, 187, 199);
+  text-align: left;
+}
+
+aside > p {
+  margin: 0.8rem;
+}
+
+.myPhoto {
+  border-radius: 100px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  transition: 1s;
+}
+.myPhoto:hover {
+  z-index: 10;
+  transform: scale(1.2);
+}
+
+.study-year {
+  color: rgb(167, 187, 199);
+  font-weight: bold;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 30px 60px;
+  background: rgb(225, 229, 234);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  outline: 2px solid rgb(225, 229, 234);
+  outline-offset: 4px;
+}
+
+.learn-more {
+  color: rgb(218, 127, 143);
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.learn-more:hover {
+  text-decoration: underline;
+}
+
+.footer {
+  text-align: center;
+  font-size: 13px;
+}
